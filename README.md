@@ -1,4 +1,4 @@
-# 🤖 Robot Quiz – Peer vs Tutor Study
+# Robot Quiz – Peer vs Tutor Study
 
 A simple web-based quiz to test if a robot that acts like a **study buddy** changes how people ask for help and how comfortable they feel, compared to a robot that acts like a **teacher**.
 
