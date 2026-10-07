@@ -120,22 +120,6 @@ people felt comfortable because they were doing well, not necessarily because th
 
 ---
 
-##  Next Time
-
-- Make both robots give the **same kind of help** (both clues, or both remove options)
-- Limit help requests (max 1 or 2 per question)
-- Equalise the pre-quiz explanations
-- Get more participants (we had only 14)
-
----
-
-##  Credits
-
-**Author**: INDRA KARAN NUKALA  
-**Course**: User Studies in Intelligent Systems  
-**University**: Bielefeld University  
-**Year**: 2026
-
 ---
 
 ##  Reference
